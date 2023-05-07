@@ -2,9 +2,15 @@
 export default function Home() {
   return (
   <div>Home Page
-    Developed by: Rehman Ali
+    <div>
+      Developed by: Rehman Ali
+    </div>
+    <div>
     Telegram: @rehmanali1337
-    Available Routes
+    </div>
+    <div>
+      Available Routes
+    </div>
     <ul>
       <li>/blog</li>
       <li>/dashboard</li>
